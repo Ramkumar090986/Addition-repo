@@ -8,7 +8,12 @@ public class SimpleAddition {
 		
 		sum=a+b;
 		
+		System.out.println("This is for Sample program");
+		
+		
 		System.out.println("Addition of two numbers:"+sum);
+		
+		
 		
 	}
 
