@@ -8,6 +8,10 @@ public class SimpleAddition {
 		
 		sum=a+b;
 		
+		
+		System.out.println("Welocme to GIT");
+		
+		
 		System.out.println("Addition of two numbers:"+sum);
 		
 	}
